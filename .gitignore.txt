@@ -1,0 +1,7 @@
+.settings
+
+target
+
+node modules
+
+bower_components
