@@ -1,0 +1,12 @@
+<DOCTYPE HTML>
+<html>
+<head>
+<title>Sign in</title>
+<link rel = "stylesheet" type="text/css" href ="style.css">
+</head>
+<body>
+This is the home page of the Trucker app
+<script type ="text/javascript" src ="signin/signin.js"</script>
+</body>
+</html>
+ 
